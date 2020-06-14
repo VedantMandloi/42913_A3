@@ -2,7 +2,7 @@
 Social and Information Network Analysis Assignment 3 Repository
 
 
-## Instruction to use the prototype
+## Instructions to use the prototype
 
 * `pip install -r requirements.txt` to install all the packages
 
