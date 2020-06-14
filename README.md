@@ -15,3 +15,4 @@ Social and Information Network Analysis Assignment 3 Repository
   
 * Then run `src/search_engine.py`. Running this will start a server 
   and POST requests can be sent to `localhost:8000/search`.
+  The format for sending data is {"text": YOUR_SEARCH_TERM_HERE}.
